@@ -1,5 +1,5 @@
+#"""Rock, paper, scissors made on Python."""
 import random
-
 
 def choose_options():
   options = ('piedra', 'papel', 'tijera')
