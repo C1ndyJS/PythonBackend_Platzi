@@ -1,7 +1,7 @@
 # GAME PROJECT
 
 # Run 
-Para ejecutar eñl juego deberas correr las siguientes instrucciones :
+Para ejecutar el juego deberas correr las siguientes instrucciones :
 
 ``` sh
 cd game
